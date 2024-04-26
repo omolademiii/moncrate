@@ -23,7 +23,7 @@ body {
 }
 
 .container {
-  @apply max-w-7xl border border mx-auto;
+  @apply max-w-7xl  mx-auto;
 }
 
 .navigation {
@@ -43,7 +43,7 @@ body {
 }
 
 .test {
-  @apply h-screen border border-blue-500;
+  @apply h-screen ;
 }
 
 .social-icons {
