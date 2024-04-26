@@ -1,10 +1,3 @@
-import AboutUs from './aboutUs';
-import Contact from './contact';
-import Career from './career';
-import New from './news';
-import Press from './press';
-import Terms from './terms';
-import Privacy from './privacy'
 import { NavLink } from 'react-router-dom';
 
 const firstFooter = () => {
