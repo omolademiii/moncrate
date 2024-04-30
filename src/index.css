@@ -14,6 +14,33 @@
   }
 }
 
+/* Assuming you have a styles.css file */
+
+@media only screen and (max-width: 768px) {
+  .main {
+    padding: 20px;
+  }
+  .test h1 {
+    font-size: 3rem;
+  }
+  .test .pl-12 {
+    padding-left: 20px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .mt-24 {
+    margin-top: 10px;
+  }
+  .test h1 {
+    font-size: 2.5rem;
+  }
+  .test .pl-12 {
+    padding-left: 10px;
+  }
+}
+
+
 body {
   @apply text-white;
 }

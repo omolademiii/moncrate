@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 
 const firstFooter = () => {
   return (
-    <div className='grid grid-cols-3 gap-4 mt-24'>
+    <div className='grid grid-cols-3 gap-4 mt-72'>
             <div className=''>
             <ul>
               <li className="w-full hover:text-red-300">
