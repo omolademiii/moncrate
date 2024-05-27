@@ -36,7 +36,7 @@ const Navigation = () => {
                 <NavLink to="/career"> Career </NavLink>
               </li>
               <li className="w-full hover:text-red-300">
-                <NavLink to="/news"> News </NavLink>
+                <NavLink to="/news"> New </NavLink>
               </li>
               <li className="w-full hover:text-red-300">
                 <NavLink to="/press"> Press </NavLink>
